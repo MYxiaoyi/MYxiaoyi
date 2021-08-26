@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>小型音乐播放器插件APlayer.js</title>
+
+    <link rel="stylesheet" href="APlayer.min.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+</head>
+
+<body>
+
+    <div id="header">
+    </div>
+    <div id="main">
+        <div class="demo">
+            <p><strong>MY MUSIC</strong></p>
+            <div id="player3" class="aplayer">
+                <pre class="aplayer-lrc-content">
+                [00:00.00]Jar Of Love
+[00:00.08]演唱：曲婉婷
+[00:00.22]
+[00:01.00]Another sunrise, another sunset
+[00:05.10]Soon it'll all be yesterday
+[00:08.33]Another good day, another bad day,
+[00:12.77]What did you do today?
+[00:15.95]Why do we choose to chase what we'll lose?
+[00:19.77]What you want isn't what you have.
+[00:23.34]What you have may not be yours, to keep.
+[00:31.29]If I could find love, at a stop, in a park with open arms,
+            </pre>
+            </div>
+        </div>
+    </div>
+
+    <script src="APlayer.min.js"></script>
+    <script>
+        var ap3 = new APlayer({
+            element: document.getElementById('player3'), //样式1
+            narrow: false,
+            autoplay: false,
+            showlrc: true,
+            music: {
+                title: 'Jar Of Love',
+                author: '_Re-梦_',
+                url: 'aa.mp3',
+                pic: 'zz.jpg'
+            }
+        });
+        ap3.init();
+    </script>
+
+
+</body>
+
+</html>
