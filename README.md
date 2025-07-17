@@ -40,7 +40,7 @@
     <td width="50%">
       <h3 align="center">Project Alpha</h3>
       <div align="center">
-        <a href="https://github.com/MYxiaoyi/project-alpha">
+        <a href="https://github.com/MYxiaoyi/MYxiaoyi.github.io">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&repo=project-alpha&theme=dark" />
         </a>
         <br>
@@ -51,7 +51,7 @@
     <td width="50%">
       <h3 align="center">Project Beta</h3>
       <div align="center">
-        <a href="https://github.com/MYxiaoyi/project-beta">
+        <a href="https://github.com/MYxiaoyi/hexo-source-backup">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&repo=project-beta&theme=dark" />
         </a>
         <br>
