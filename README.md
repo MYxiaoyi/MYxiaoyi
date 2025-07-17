@@ -10,7 +10,11 @@
 
 <!-- 动态技术栈图标 -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,git,docker,kubernetes,aws,linux,vim,postgres,redis,grafana,prometheus" alt="技能图标" />
+  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,dotnet,cs,ros,cmake,html,arduino,qt,matlab,nodejs,git,docker,linux,vim,css,eclipse,md,ps&theme=dark" alt="技能图标" />
+  <p>
+    Python | JavaScript | C/C++ | .NET | C# | ROS | CMake | HTML5 | Arduino<br>
+    Qt | MATLAB | Node.js | Git | Docker | Linux | Vim | CSS | Eclipse | Markdown | Photoshop
+  </p>
 </div>
 
 ---
@@ -71,18 +75,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MYxiaoyi&theme=onedark&no-frame=true&row=1&column=7" alt="成就奖杯" />
 </div>
 
-<!-- 每日名言 -->
+<!-- 中文每日名言 -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="名言" />
+  <img src="https://api.ltln.net/qr/?w=800&h=80&e=H&t=%E6%AF%8F%E6%97%A5%E5%90%8D%E8%A8%80%EF%BC%9A%E5%AD%A6%E8%80%8C%E4%B8%8D%E6%80%9D%E5%88%99%E7%BD%94%EF%BC%8C%E6%80%9D%E8%80%8C%E4%B8%8D%E5%AD%A6%E5%88%99%E6%AE%86%E3%80%82%20--%20%E5%AD%94%E5%AD%90%0A%0A%E5%B0%8F%E7%9F%A5%E4%B9%8E%E4%B8%8D%E5%8F%8A%E5%A4%A7%E6%84%9F%E6%82%9F%EF%BC%8C%E5%B0%8F%E5%B9%B8%E8%BF%90%E4%B8%8D%E5%8F%8A%E5%A4%A7%E5%8A%AA%E5%8A%9B%E3%80%82" alt="中文名言" />
 </div>
 
 <details>
   <summary>📈 更多统计数据</summary>
-  
-  ```mermaid
-  graph TD
-    A[GitHub Analytics] --> B[Commits]
-    A --> C[PRs]
-    A --> D[Issues]
-    B --> E{Weekly Activity}
-    C --> F{Merge Rate}
