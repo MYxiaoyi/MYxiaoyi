@@ -35,32 +35,39 @@
 
 ### 🌟 精选项目
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Alpha</h3>
-      <div align="center">
-        <a href="https://github.com/MYxiaoyi/MYxiaoyi.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&MYxiaoyi.github.io&theme=dark" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/github/stars/MYxiaoyi/MYxiaoyi.github.io?style=flat-square">
-        <img src="https://img.shields.io/github/last-commit/MYxiaoyi/MYxiaoyi.github.io?style=flat-square">
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Beta</h3>
-      <div align="center">
-        <a href="https://github.com/MYxiaoyi/hexo-source-backup">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&hexo-source-backup&theme=dark" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/github/forks/MYxiaoyi/hexo-source-backup?style=flat-square">
-        <img src="https://img.shields.io/github/issues/MYxiaoyi/hexo-source-backup?style=flat-square">
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <!-- MYxiaoyi.github.io 项目 -->
+      <td width="50%" style="border: none; padding: 10px;">
+        <div align="center">
+          <h3>🎨 MYxiaoyi.github.io</h3>
+          <a href="https://github.com/MYxiaoyi/MYxiaoyi.github.io">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&repo=MYxiaoyi.github.io&theme=dark" />
+          </a>
+          <div style="margin-top: 10px;">
+            <img src="https://img.shields.io/github/stars/MYxiaoyi/MYxiaoyi.github.io?style=flat-square&label=Stars" alt="Stars">
+            <img src="https://img.shields.io/github/last-commit/MYxiaoyi/MYxiaoyi.github.io?style=flat-square&label=Updated" alt="Last commit">
+            <img src="https://img.shields.io/github/languages/code-size/MYxiaoyi/MYxiaoyi.github.io?style=flat-square&label=Size" alt="Size">
+          </div>
+        </div>
+      </td>
+      <td width="50%" style="border: none; padding: 10px;">
+        <div align="center">
+          <h3>📦 Hexo Source Backup</h3>
+          <a href="https://github.com/MYxiaoyi/hexo-source-backup">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&repo=hexo-source-backup&theme=dark" />
+          </a>
+          <div style="margin-top: 10px;">
+            <img src="https://img.shields.io/github/forks/MYxiaoyi/hexo-source-backup?style=flat-square&label=Forks" alt="Forks">
+            <img src="https://img.shields.io/github/issues/MYxiaoyi/hexo-source-backup?style=flat-square&label=Issues" alt="Issues">
+            <img src="https://img.shields.io/github/license/MYxiaoyi/hexo-source-backup?style=flat-square&label=License" alt="License">
+          </div>
+        </div>
+      </td>
+    </tr>
+    </table>
+</div>
 
 ---
 
