@@ -120,7 +120,6 @@
 .inspiration-card table {
   width: 100%;
 }
-
 /* 深色模式支持 */
 @media (prefers-color-scheme: dark) {
   .inspiration-card {
@@ -130,6 +129,6 @@
 }
 </style>
 
-
+## 更多统计数据
 <details>
   <summary>📈 更多统计数据</summary>
