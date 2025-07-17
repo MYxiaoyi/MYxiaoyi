@@ -1,9 +1,8 @@
 <div align="center">
   <a href="https://github.com/MYxiaoyi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+MYxiaoyi;AI+%26+DevOps+Enthusiast;Open+Source+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+MYxiaoyi;Embedded+Software+Engineer;AI+%26+DevOps+Enthusiast" alt="Typing Animation" />
   </a>
 </div>
-
 ---
 
 ### 🛠️ 技术栈与工具
