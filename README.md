@@ -76,8 +76,24 @@
 </div>
 
 <!-- 中文每日名言 -->
+###  🌟 每日鸡汤
+
+<!-- 动态名言卡片 -->
 <div align="center">
-  <img src="https://api.ltln.net/qr/?w=800&h=80&e=H&t=%E6%AF%8F%E6%97%A5%E5%90%8D%E8%A8%80%EF%BC%9A%E5%AD%A6%E8%80%8C%E4%B8%8D%E6%80%9D%E5%88%99%E7%BD%94%EF%BC%8C%E6%80%9D%E8%80%8C%E4%B8%8D%E5%AD%A6%E5%88%99%E6%AE%86%E3%80%82%20--%20%E5%AD%94%E5%AD%90%0A%0A%E5%B0%8F%E7%9F%A5%E4%B9%8E%E4%B8%8D%E5%8F%8A%E5%A4%A7%E6%84%9F%E6%82%9F%EF%BC%8C%E5%B0%8F%E5%B9%B8%E8%BF%90%E4%B8%8D%E5%8F%8A%E5%A4%A7%E5%8A%AA%E5%8A%9B%E3%80%82" alt="中文名言" />
+  <table>
+    <tr>
+      <td width="60%">
+        <h3>📜 每日一语</h3>
+        <img src="https://img.shields.io/badge/词霸每日一句-{date}-blueviolet?style=flat-square" alt="日期标记">
+        <p><b>英文：</b>{content}</p>
+        <p><b>释义：</b>{note}</p>
+        <p><i>{translation}</i></p>
+      </td>
+      <td width="40%">
+        <img src="{picture2}" width="300" alt="每日配图">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <details>
