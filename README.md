@@ -81,7 +81,7 @@
 ### 🌬️ 风神寄语
 
 <!-- 横幅图片 -->
-[![心海壁纸](https://myxiaoyi.github.io/images/banner.webp =800x300)](https://myxiaoyi.github.io/images/banner.webp "点击查看原图")
+![心海壁纸](https://myxiaoyi.github.io/images/banner.webp =800x300)](https://myxiaoyi.github.io/images/banner.webp "点击查看原图")
 
 > "你若困于无风之地，我便让全世界的风吹向你"  
 > **—— 温迪**
