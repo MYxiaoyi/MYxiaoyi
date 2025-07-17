@@ -41,22 +41,22 @@
       <h3 align="center">Project Alpha</h3>
       <div align="center">
         <a href="https://github.com/MYxiaoyi/MYxiaoyi.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&repo=project-alpha&theme=dark" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&MYxiaoyi.github.io&theme=dark" />
         </a>
         <br>
-        <img src="https://img.shields.io/github/stars/MYxiaoyi/project-alpha?style=flat-square">
-        <img src="https://img.shields.io/github/last-commit/MYxiaoyi/project-alpha?style=flat-square">
+        <img src="https://img.shields.io/github/stars/MYxiaoyi/MYxiaoyi.github.io?style=flat-square">
+        <img src="https://img.shields.io/github/last-commit/MYxiaoyi/MYxiaoyi.github.io?style=flat-square">
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Project Beta</h3>
       <div align="center">
         <a href="https://github.com/MYxiaoyi/hexo-source-backup">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&repo=project-beta&theme=dark" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&hexo-source-backup&theme=dark" />
         </a>
         <br>
-        <img src="https://img.shields.io/github/forks/MYxiaoyi/project-beta?style=flat-square">
-        <img src="https://img.shields.io/github/issues/MYxiaoyi/project-beta?style=flat-square">
+        <img src="https://img.shields.io/github/forks/MYxiaoyi/hexo-source-backup?style=flat-square">
+        <img src="https://img.shields.io/github/issues/MYxiaoyi/hexo-source-backup?style=flat-square">
       </div>
     </td>
   </tr>
@@ -73,7 +73,10 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MYxiaoyi&theme=onedark&no-frame=true&row=1&column=7" alt="成就奖杯" />
 </div>
-
+<!-- 每日名言 -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="名言" />
+</div>
 
 
 <div align="center">
@@ -81,7 +84,11 @@
 ### 🌬️ 风神寄语
 
 <!-- 横幅图片 -->
-![心海壁纸](https://myxiaoyi.github.io/images/banner.webp =800x300)](https://myxiaoyi.github.io/images/banner.webp "点击查看原图")
+<div align="center">
+  <a href="https://myxiaoyi.github.io/images/banner.webp" title="点击查看原图">
+    <img src="https://myxiaoyi.github.io/images/banner.webp" alt="风神温迪" width="800">
+  </a>
+</div>
 
 > "你若困于无风之地，我便让全世界的风吹向你"  
 > **—— 温迪**
