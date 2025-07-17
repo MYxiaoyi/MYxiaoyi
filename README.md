@@ -88,70 +88,8 @@
   ## ✨ 每日激励
 
   <!-- 名言卡片 - 静态展示 -->
-  <div style="
-    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
-    border-radius: 16px;
-    padding: 25px;
-    color: white;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-    max-width: 800px;
-    margin: 20px auto;
-    font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
-    position: relative;
-    overflow: hidden;
-  ">
-    
-    <!-- 装饰元素 -->
-    <div style="
-      position: absolute;
-      top: -50px;
-      right: -30px;
-      width: 120px;
-      height: 120px;
-      background: rgba(255,255,255,0.1);
-      border-radius: 50%;
-    "></div>
-    
-    <!-- 名言内容 -->
-    <blockquote style="
-      font-size: 1.8em;
-      font-weight: 300;
-      line-height: 1.6;
-      margin: 20px 0;
-      text-align: center;
-      text-shadow: 0 2px 4px rgba(0,0,0,0.2);
-      position: relative;
-      z-index: 2;
-    ">
-      "你若困于无风之地，我便让全世界的风吹向你"
-    </blockquote>
-    
-    <!-- 作者信息 -->
-    <p style="
-      text-align: right;
-      font-style: italic;
-      font-size: 1.2em;
-      margin-top: 30px;
-      opacity: 0.9;
-      text-shadow: 0 1px 2px rgba(0,0,0,0.2);
-      position: relative;
-      z-index: 2;
-    ">
-      —— 温迪
-    </p>
-    
-    <!-- 风元素装饰 -->
-    <div style="
-      position: absolute;
-      bottom: 20px;
-      left: 30px;
-      font-size: 2em;
-      animation: wind 5s linear infinite;
-    ">
-      💨
-    </div>
-  </div>
-</div>
+> **“你若困于无风之地，我便让全世界的风吹向你”**  
+> **—— 温迪**
 > 
 > *每个生灵的意志都值得尊重，就像海中的游鱼，也有自己的方向。*
 > 
