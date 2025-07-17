@@ -75,8 +75,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MYxiaoyi&theme=onedark&no-frame=true&row=1&column=7" alt="成就奖杯" />
 </div>
 
-<!-- 中文每日名言 -->
+
 ###  🌟 每日鸡汤
+<!-- 中文每日名言 -->
+<div align="center">
 <footer id="footer" role="contentinfo">
 
     <span id="jinrishici-sentence">正在加载今日诗词....</span>
@@ -86,6 +88,6 @@
     &copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a>.
     <?php _e('由 <a href="http://www.typecho.org">Typecho</a> 强力驱动'); ?>.
 </footer><!-- end #footer -->
-
+</div>
 <details>
   <summary>📈 更多统计数据</summary>
