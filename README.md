@@ -77,17 +77,25 @@
 
 
 ###  🌟 每日鸡汤
-<!-- 中文每日名言 -->
+
+<!-- 动态名言卡片 -->
 <div align="center">
-<footer id="footer" role="contentinfo">
-
-    <span id="jinrishici-sentence">正在加载今日诗词....</span>
-    <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
-    <br>
-
-    &copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a>.
-    <?php _e('由 <a href="http://www.typecho.org">Typecho</a> 强力驱动'); ?>.
-</footer><!-- end #footer -->
+  <table>
+    <tr>
+      <td width="60%">
+        <h3>📜 每日一语</h3>
+        <img src="https://img.shields.io/badge/词霸每日一句-{date}-blueviolet?style=flat-square" alt="日期标记">
+        <p><b>英文：</b>{content}</p>
+        <p><b>释义：</b>{note}</p>
+        <p><i>{translation}</i></p>
+      </td>
+      <td width="40%">
+        <img src="{picture2}" width="300" alt="每日配图">
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 <details>
   <summary>📈 更多统计数据</summary>
