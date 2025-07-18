@@ -87,7 +87,7 @@
 </div>
 
 <div align="center">
-<a href="https://f123.club"><img src="../../enterBlog.png" alt="enterBlog图片"></a>
+<a href="https://f123.club"><img src="enterBlog.png" alt="进入博客" /></a>
 </div>
 
 ### 🌬️ 风神寄语
