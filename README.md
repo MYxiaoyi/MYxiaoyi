@@ -55,7 +55,7 @@
       </td>
       <td width="50%" style="border: none; padding: 10px;">
         <div align="center">
-          <h3>📦 Hexo Source Backup</h3>
+          <h3>📦 BIN-FILE-SERVER</h3>
           <a href="https://github.com/MYxiaoyi/BIN-FILE-SERVER">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&repo=BIN-FILE-SERVER&theme=dark" />
           </a>
