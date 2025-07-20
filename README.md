@@ -56,13 +56,13 @@
       <td width="50%" style="border: none; padding: 10px;">
         <div align="center">
           <h3>📦 Hexo Source Backup</h3>
-          <a href="https://github.com/MYxiaoyi/hexo-source-backup">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&repo=hexo-source-backup&theme=dark" />
+          <a href="https://github.com/MYxiaoyi/BIN-FILE-SERVER">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MYxiaoyi&repo=BIN-FILE-SERVER&theme=dark" />
           </a>
           <div style="margin-top: 10px;">
-            <img src="https://img.shields.io/github/forks/MYxiaoyi/hexo-source-backup?style=flat-square&label=Forks" alt="Forks">
-            <img src="https://img.shields.io/github/issues/MYxiaoyi/hexo-source-backup?style=flat-square&label=Issues" alt="Issues">
-            <img src="https://img.shields.io/github/license/MYxiaoyi/hexo-source-backup?style=flat-square&label=License" alt="License">
+            <img src="https://img.shields.io/github/forks/MYxiaoyi/BIN-FILE-SERVER?style=flat-square&label=Forks" alt="Forks">
+            <img src="https://img.shields.io/github/issues/MYxiaoyi/BIN-FILE-SERVER?style=flat-square&label=Issues" alt="Issues">
+            <img src="https://img.shields.io/github/license/MYxiaoyi/BIN-FILE-SERVER?style=flat-square&label=License" alt="License">
           </div>
         </div>
       </td>
